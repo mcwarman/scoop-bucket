@@ -1,0 +1,20 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/mcwarman/helm-to-hcl/releases/download/v0.0.1/helm-to-hcl_0.0.1_Windows_i386.tar.gz",
+            "bin": [
+                "helm-to-hcl.exe"
+            ],
+            "hash": "94f46830eb89002cef1095a156ed94978f4033fa7e0cc681076a2e2d9703e736"
+        },
+        "64bit": {
+            "url": "https://github.com/mcwarman/helm-to-hcl/releases/download/v0.0.1/helm-to-hcl_0.0.1_Windows_x86_64.tar.gz",
+            "bin": [
+                "helm-to-hcl.exe"
+            ],
+            "hash": "e276d58cbe05033d739645fbb082f156d7b6418dc8c8ea65abedf3a448987423"
+        }
+    },
+    "license": "MIT"
+}
