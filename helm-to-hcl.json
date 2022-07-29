@@ -1,20 +1,22 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mcwarman/helm-to-hcl/releases/download/v0.0.1/helm-to-hcl_0.0.1_Windows_i386.tar.gz",
+            "url": "https://github.com/mcwarman/helm-to-hcl/releases/download/v0.0.2/helm-to-hcl_0.0.2_Windows_i386.tar.gz",
             "bin": [
                 "helm-to-hcl.exe"
             ],
-            "hash": "94f46830eb89002cef1095a156ed94978f4033fa7e0cc681076a2e2d9703e736"
+            "hash": "c3b7ce336c157538f3dd55baf06d30a89b68998b3dfd94beb5723173d0259eb8"
         },
         "64bit": {
-            "url": "https://github.com/mcwarman/helm-to-hcl/releases/download/v0.0.1/helm-to-hcl_0.0.1_Windows_x86_64.tar.gz",
+            "url": "https://github.com/mcwarman/helm-to-hcl/releases/download/v0.0.2/helm-to-hcl_0.0.2_Windows_x86_64.tar.gz",
             "bin": [
                 "helm-to-hcl.exe"
             ],
-            "hash": "e276d58cbe05033d739645fbb082f156d7b6418dc8c8ea65abedf3a448987423"
+            "hash": "0e27d290b4e3f7c5fab222d489c2ff2b77fdb8061e8713097d9f39dd444ee099"
         }
     },
-    "license": "MIT"
+    "homepage": "https://github.com/mcwarman/helm-to-hcl/blob/main/README.md",
+    "license": "MIT",
+    "description": "Utility for converting helm configuration to HCL for use in Terraform"
 }
