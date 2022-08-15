@@ -1,19 +1,19 @@
 {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mcwarman/helm-to-hcl/releases/download/v0.0.3/helm-to-hcl_0.0.3_Windows_i386.tar.gz",
+            "url": "https://github.com/mcwarman/helm-to-hcl/releases/download/v0.0.4/helm-to-hcl_0.0.4_Windows_i386.tar.gz",
             "bin": [
                 "helm-to-hcl.exe"
             ],
-            "hash": "440cb4646403072209dce5d4359b27f8bdcab81d6f04e06720803f8ee951ba98"
+            "hash": "c7855450466b8e64b44f166c058dba75e556a17f63d4b35f6dcf44b8b83418be"
         },
         "64bit": {
-            "url": "https://github.com/mcwarman/helm-to-hcl/releases/download/v0.0.3/helm-to-hcl_0.0.3_Windows_x86_64.tar.gz",
+            "url": "https://github.com/mcwarman/helm-to-hcl/releases/download/v0.0.4/helm-to-hcl_0.0.4_Windows_x86_64.tar.gz",
             "bin": [
                 "helm-to-hcl.exe"
             ],
-            "hash": "34e5723ebdb647f33f9b94cc929df613b2ee43138022744b8c8f147d60e0a288"
+            "hash": "57a2f9d48cac1adac7ef3bf3862360c519c8d89a94c6736983b7ea57e14d426c"
         }
     },
     "homepage": "https://github.com/mcwarman/helm-to-hcl/blob/main/README.md",
